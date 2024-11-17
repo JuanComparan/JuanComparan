@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JuanComparan
-- 👀 I’m interested in CiberSecurity & Java
+- 👀 I’m interested in CiberSecurity, Mobile Development & Java
 - 🌱 I’m currently learning Computer Engineering
 - 📫 How to reach me: via email valeriocomparanj@gmail.com
 - 😄 Pronouns: "Humilde", "Frijoles"
