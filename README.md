@@ -2,8 +2,6 @@
 - 👀 I’m interested in CiberSecurity, Mobile Development & Java
 - 🌱 I’m currently learning Computer Engineering
 - 📫 How to reach me: via email valeriocomparanj@gmail.com
-- 😄 Pronouns: "Humilde", "Frijoles"
-- ⚡ Fun fact: My nickname in videogames is "JohnCenaFrijoles", but i don't really like "frijoles" (beans).
 
 <!---
 JuanComparan/JuanComparan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
